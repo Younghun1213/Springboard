@@ -45,7 +45,6 @@
 * 공통 오류 페이지
 	- @ExceptionHandler, @ControllerAdvice, @RestControllerAdvice
 	
-* <a href="https://drive.google.com/drive/folders/1zrk-y8QL5K8pUa7uJnKUfWY_AzHHlFRv?usp=share_link">동영상 강의</a>
 
 ## 4일차
 * 공통 오류 페이지 처리 
